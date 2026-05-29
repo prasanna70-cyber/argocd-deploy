@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: prasannapothula/internetbankingrepo:latest
+        image: prasannapothula/ib-image:latest
 ---
 apiVersion: v1
 kind: Service
